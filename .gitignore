@@ -1,0 +1,4 @@
+# 抓取的原始 HTML 缓存, 可用 python scripts/sync.py 重新生成
+_raw/
+__pycache__/
+*.pyc
